@@ -1,6 +1,6 @@
 # Type the Logo
 
-A one-file typing game: see a brand logo, type the brand name. 24 logos, one pass, live WPM and accuracy, results screen at the end.
+A one-file typing game for B2B marketers: see a B2B brand logo, type the brand name. 24 logos, one pass, live WPM and accuracy, results screen at the end.
 
 Open `index.html` in any browser. No build step, no backend.
 
